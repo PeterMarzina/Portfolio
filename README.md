@@ -9,7 +9,7 @@ Ik ben enthousiast over programmeren en technologie en werk graag aan projecten 
 
 ## Projecten
 - **Project 1:** Mijn eerste grote project was een quiz die ik voor een project op school heb gemaakt.
-- **Project 2:** Mijn tweeede grote project is deze portfolio die ik heb gemaakt om een stage te kunnen vinden.
+- **Project 2:** Mijn tweede grote project is deze portfolio die ik heb gemaakt om een stage te kunnen vinden.
 
 ## Vaardigheden
 - Programmeertalen: HTML, CSS, JavaScript, Python, Java
