@@ -4,7 +4,7 @@ Welkom bij mijn persoonlijke portfolio!
 Hier laat ik zien wie ik ben, mijn projecten en vaardigheden als tweedejaars Software Developer aan het ROC van Hilversum.
 
 ## Over mij
-Ik ben [Jouw Naam], tweedejaars student Software Developer aan het ROC van Hilversum.  
+Mijn naam is Peter Marzina, tweedejaars student Software Developer aan het ROC van Hilversum.  
 Ik ben enthousiast over programmeren en technologie en werk graag aan projecten waarbij ik kan leren en mijn vaardigheden kan ontwikkelen.
 
 ## Projecten
