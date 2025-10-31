@@ -8,9 +8,8 @@ Mijn naam is Peter Marzina, tweedejaars student Software Developer aan het ROC v
 Ik ben enthousiast over programmeren en technologie en werk graag aan projecten waarbij ik kan leren en mijn vaardigheden kan ontwikkelen.
 
 ## Projecten
-- **Project 1:** Korte uitleg van wat je hebt gemaakt en welke technologieën je hebt gebruikt  
-- **Project 2:** Korte uitleg van wat je hebt gemaakt en welke technologieën je hebt gebruikt  
-- **Project 3:** Korte uitleg van wat je hebt gemaakt en welke technologieën je hebt gebruikt  
+- **Project 1:** Mijn eerste grote project was een quiz die ik voor een project op school heb gemaakt.
+- **Project 2:** Mijn tweeede grote project is deze portfolio die ik heb gemaakt om een stage te kunnen vinden.
 
 ## Vaardigheden
 - Programmeertalen: HTML, CSS, JavaScript, Python, Java
