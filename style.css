@@ -71,7 +71,6 @@ nav {
     margin: 0 auto 2rem;
     border-radius: 50%;
     object-fit: cover;
-    object-position: center 20%;
     overflow: hidden;
     border: 5px solid white;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
@@ -80,7 +79,7 @@ nav {
 
 .profile-photo img {
     width: 100%;
-    height: 100%;
+    height: 170%;
     object-fit: cover;
     transition: transform 0.3s ease;
 }
