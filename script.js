@@ -119,14 +119,14 @@ function typeWriter(element, text, speed = 50) {
     type();
 }
 
-// Activeer typing effect na laden (optioneel - verwijder /* */ om te activeren)
-/*
+// Activeer typing effect na laden (optioneel - verwijder // om te activeren)
+
 window.addEventListener('load', () => {
     const heroTitle = document.querySelector('.hero h1');
     const originalText = heroTitle.textContent;
     typeWriter(heroTitle, originalText, 80);
 });
-*/
+
 
 // CSS class voor fade-in animatie
 const style = document.createElement('style');
