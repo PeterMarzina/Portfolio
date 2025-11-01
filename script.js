@@ -138,11 +138,6 @@ style.textContent = `
 `;
 document.head.appendChild(style);
 
-// Console bericht voor developers die de website bekijken
-console.log('%c👋 Hallo Developer!', 'color: #667eea; font-size: 20px; font-weight: bold;');
-console.log('%cLeuk dat je mijn code bekijkt! 💻', 'color: #764ba2; font-size: 14px;');
-console.log('%cOp zoek naar een stagiair? Neem contact met me op!', 'color: #667eea; font-size: 14px;');
-
 // Contact button extra animatie
 const ctaButton = document.querySelector('.cta-button');
 if (ctaButton) {
