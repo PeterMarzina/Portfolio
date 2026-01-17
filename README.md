@@ -12,7 +12,7 @@ Ik ben enthousiast over programmeren en technologie en werk graag aan projecten 
 - **Project 2:** Mijn tweede grote project is deze portfolio die ik heb gemaakt om een stage te kunnen vinden.
 
 ## Vaardigheden
-- Programmeertalen: HTML, CSS, JavaScript, Python, Java
+- Programmeertalen: HTML, CSS, JavaScript, PHP, MySQL, Python, Java
 - Overig: Git, GitHub, VS Code  
 
 ## Contact
